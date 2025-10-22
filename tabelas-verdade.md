@@ -1,4 +1,5 @@
 1. Eu estudei para a prova e fiz todos os exercícios
+
 | p | q | p ∧ q |
 |---|---|-------|
 | V | V | V     |
